@@ -12,3 +12,7 @@ Dự án bao gồm 2 module xử lý chính:
 - **Ngôn ngữ**: C#
 - **Platform**: .NET Console Application
 - **Môi trường**: Visual Studio / Visual Studio Code
+
+## HÀ HUY HOÀNG
+## 24110907
+
